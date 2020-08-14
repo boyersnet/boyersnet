@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**boyersnet/boyersnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Chuck and I have over twenty years of professional experience in the information technology industry with expertise in web development, client/server development, application integration, project management, customer support, and windows based system administration.
 
-Here are some ideas to get you started:
+[Here](work-from-home.md) is my work from home setup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My specailties are: 
+- Amazon Web Services Certified Developer
+- Amazon Web Services Certified Solutions Architect
+- MCSD.NET
+- Microsoft Development focusing on Internet Technologies
+- Application and Systems Architecture
+- Cloud Architecture
+- SaaS Content Managment Services
+
+Fun Facts:
+- 🔭 I’m currently working on an on prem to AWS migration
+- 🌱 I’m currently learning AWS
+- 💬 Ask me about AWS, .NET
+- 📫 How to reach me: [@boyersnet](https://twitter.com/boyersnet)
