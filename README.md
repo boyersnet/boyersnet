@@ -5,13 +5,19 @@ My name is Chuck and I have over twenty years of professional experience in the 
 [Here](https://github.com/boyersnet/boyersnet/blob/main/work-from-home.md) is my work from home setup.
 
 My specailties are: 
-- Amazon Web Services Certified Developer
-- Amazon Web Services Certified Solutions Architect
+- Amazon Web Services Certified DevOps Engineer – Professional
+- Amazon Web Services Certified Developer - Associate
+- Amazon Web Services Certified Solutions Architect - Associate
+- Amazon Web Services Certified Cloud Practitioner
 - MCSD.NET
 - Microsoft Development focusing on Internet Technologies
 - Application and Systems Architecture
 - Cloud Architecture
 - SaaS Content Managment Services
+- CI/CD
+- Agile Development
+
+![Amazon Certified](aws-certified-combined.png)
 
 Fun Facts:
 - 🔭 I’m currently working on an on prem to AWS migration
