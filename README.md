@@ -17,7 +17,7 @@ My specailties are:
 - CI/CD
 - Agile Development
 
-![Amazon Certified](aws-certified-combined.png)
+![Amazon Certified](images/certifications/aws-certified-combined.png)
 
 Fun Facts:
 - 🔭 I’m currently working on an on prem to AWS migration
