@@ -24,3 +24,8 @@ Fun Facts:
 - 🌱 I’m currently learning AWS
 - 💬 Ask me about AWS, .NET
 - 📫 How to reach me: [@boyersnet](https://twitter.com/boyersnet)
+
+
+Other stuff:
+
+- [oh-my-posh](oh-my-posh.md) configuration
