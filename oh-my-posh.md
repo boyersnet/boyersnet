@@ -1,5 +1,7 @@
 # oh-my-posh Configuration for Mac
 
+The oh-my-posh configuration I use for both bash and powershell is a tribute to my Alma Mater [Virginia Tech](https://vt.edu).  The colors I use are taken from their [https://brand.vt.edu](branding guidelines).
+
 1. Install/Update oh-my-posh via iTerm2 and home brew.
 ```bash
 brew upgrade oh-my-posh
