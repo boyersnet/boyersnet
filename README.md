@@ -29,3 +29,4 @@ Fun Facts:
 Other stuff:
 
 - [oh-my-posh](oh-my-posh.md) configuration
+- [Brewfile](Brewfile.md)
