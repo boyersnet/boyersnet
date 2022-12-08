@@ -18,7 +18,11 @@ My specailties are:
 - CI/CD
 - Agile Development
 
-![Amazon Certified](images/certifications/aws-certified-combined.png)
+[![Amazon Certified Cloud Practitioner](images/certifications/aws-certified-cloud-practitioner.png)](https://www.youracclaim.com/badges/7e13f534-efbe-45e6-829d-47676e320c7c/public_url)
+[![Amazon Certified Solutions Architect Associate](images/certifications/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/fdaaa13d-3ad2-4f69-a3fd-29114df70a0b/public_url)
+[![Amazon Certified Developer Associate](images/certifications/aws-certified-developer-associate.png)](https://www.credly.com/badges/d59d3e90-5a72-4b33-a9f5-fef8facb3a21/public_url)
+[![Amazon Certified DevOps Engineer Professional](images/certifications/aws-certified-devops-engineer-professional.png)](https://www.youracclaim.com/badges/c0f9ed4b-9909-4d2e-a5a4-991edd350816/public_url)
+[![Amazon Certified Security Specialty](images/certifications/aws-certified-security-specialty.png)](https://www.credly.com/badges/dee0e8da-aeaf-428d-9f78-f058b50370b9/public_url)
 
 Fun Facts:
 
